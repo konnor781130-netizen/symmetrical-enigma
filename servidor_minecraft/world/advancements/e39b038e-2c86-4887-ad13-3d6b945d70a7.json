@@ -1,0 +1,15 @@
+{
+  "minechosis:minechosis": {
+    "criteria": {
+      "minechosis": "2026-02-22 00:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-02-22 00:57:50 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
